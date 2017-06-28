@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Material10';
-  src:  url('fonts/Material10.eot?8pauus');
-  src:  url('fonts/Material10.eot?8pauus#iefix') format('embedded-opentype'),
-    url('fonts/Material10.ttf?8pauus') format('truetype'),
-    url('fonts/Material10.woff?8pauus') format('woff'),
-    url('fonts/Material10.svg?8pauus#Material10') format('svg');
+  src:  url('fonts/Material10.eot?1ebz32');
+  src:  url('fonts/Material10.eot?1ebz32#iefix') format('embedded-opentype'),
+    url('fonts/Material10.ttf?1ebz32') format('truetype'),
+    url('fonts/Material10.woff?1ebz32') format('woff'),
+    url('fonts/Material10.svg?1ebz32#Material10') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.m10-chevron-down:before {
+  content: "\4d";
+}
+.m10-chevron-up:before {
+  content: "\4c";
+}
+.m10-chevron-left:before {
+  content: "\4a";
+}
+.m10-chevron-right:before {
+  content: "\4b";
+}
 .m10-unlock-fill:before {
   content: "\61";
 }
