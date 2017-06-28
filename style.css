@@ -1,0 +1,131 @@
+@font-face {
+  font-family: 'Material10';
+  src:  url('fonts/Material10.eot?944yqh');
+  src:  url('fonts/Material10.eot?944yqh#iefix') format('embedded-opentype'),
+    url('fonts/Material10.ttf?944yqh') format('truetype'),
+    url('fonts/Material10.woff?944yqh') format('woff'),
+    url('fonts/Material10.svg?944yqh#Material10') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="m10-"], [class*=" m10-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Material10' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.m10-unlock-fill:before {
+  content: "\61";
+}
+.m10-unlock:before {
+  content: "\62";
+}
+.m10-user-fill:before {
+  content: "\63";
+}
+.m10-user:before {
+  content: "\64";
+}
+.m10-tv-fill:before {
+  content: "\65";
+}
+.m10-tv:before {
+  content: "\66";
+}
+.m10-lock:before {
+  content: "\67";
+}
+.m10-lock-fill:before {
+  content: "\68";
+}
+.m10-power:before {
+  content: "\69";
+}
+.m10-bookmark:before {
+  content: "\6a";
+}
+.m10-bookmark-fill:before {
+  content: "\6b";
+}
+.m10-trash:before {
+  content: "\6c";
+}
+.m10-trash-fill:before {
+  content: "\6d";
+}
+.m10-send-fill:before {
+  content: "\6e";
+}
+.m10-send:before {
+  content: "\6f";
+}
+.m10-heart-fill:before {
+  content: "\70";
+}
+.m10-heart:before {
+  content: "\71";
+}
+.m10-forum:before {
+  content: "\72";
+}
+.m10-chat-fill:before {
+  content: "\73";
+}
+.m10-chat:before {
+  content: "\74";
+}
+.m10-cog-fill:before {
+  content: "\75";
+}
+.m10-cog:before {
+  content: "\76";
+}
+.m10-cloud-fill:before {
+  content: "\77";
+}
+.m10-cloud:before {
+  content: "\e908";
+}
+.m10-light-bulb:before {
+  content: "\e906";
+}
+.m10-light-bulb-fill:before {
+  content: "\7a";
+}
+.m10-arrow-right:before {
+  content: "\41";
+}
+.m10-arrow-left:before {
+  content: "\42";
+}
+.m10-desktop-fill:before {
+  content: "\43";
+}
+.m10-desktop:before {
+  content: "\44";
+}
+.m10-check:before {
+  content: "\45";
+}
+.m10-exit:before {
+  content: "\46";
+}
+.m10-menu:before {
+  content: "\47";
+}
+.m10-search:before {
+  content: "\48";
+}
+.m10-user-circle:before {
+  content: "\49";
+}
