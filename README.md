@@ -11,5 +11,5 @@ Mail Icon:                Pending release
 Camera Icon:              Pending release
 Home Icon:                Pending release
 SMS Icon:                 Pending release
-Burn Icon:                In progress
+Burn Icon:                Pending release
 ```
