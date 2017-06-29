@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Material10';
-  src:  url('fonts/Material10.eot?1ebz32');
-  src:  url('fonts/Material10.eot?1ebz32#iefix') format('embedded-opentype'),
-    url('fonts/Material10.ttf?1ebz32') format('truetype'),
-    url('fonts/Material10.woff?1ebz32') format('woff'),
-    url('fonts/Material10.svg?1ebz32#Material10') format('svg');
+  src:  url('fonts/Material10.eot?rxeva6');
+  src:  url('fonts/Material10.eot?rxeva6#iefix') format('embedded-opentype'),
+    url('fonts/Material10.ttf?rxeva6') format('truetype'),
+    url('fonts/Material10.woff?rxeva6') format('woff'),
+    url('fonts/Material10.svg?rxeva6#Material10') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,36 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.m10-fire:before {
+  content: "\57";
+}
+.m10-fire-fill:before {
+  content: "\56";
+}
+.m10-sms-fill:before {
+  content: "\53";
+}
+.m10-sms:before {
+  content: "\54";
+}
+.m10-home:before {
+  content: "\55";
+}
+.m10-home-fill:before {
+  content: "\52";
+}
+.m10-camera:before {
+  content: "\51";
+}
+.m10-camera-fill:before {
+  content: "\50";
+}
+.m10-mail:before {
+  content: "\4f";
+}
+.m10-mail-fill:before {
+  content: "\4e";
+}
 .m10-chevron-down:before {
   content: "\4d";
 }
