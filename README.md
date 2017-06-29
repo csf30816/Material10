@@ -8,8 +8,8 @@ Icon Request Statuses:
 ------
 Chevron(s):               Released
 Mail Icon:                Pending release
-Camera Icon:              In progress
-Home Icon:                In design phase
+Camera Icon:              Pending release
+Home Icon:                In progress
 SMS Icon:                 In design phase
 Burn Icon:                In design phase
 ```
