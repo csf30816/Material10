@@ -10,6 +10,6 @@ Chevron(s):               Released
 Mail Icon:                Pending release
 Camera Icon:              Pending release
 Home Icon:                Pending release
-SMS Icon:                 In progress
-Burn Icon:                In design phase
+SMS Icon:                 Pending release
+Burn Icon:                In progress
 ```
