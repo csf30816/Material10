@@ -9,7 +9,7 @@ Icon Request Statuses:
 Chevron(s):               Released
 Mail Icon:                Pending release
 Camera Icon:              Pending release
-Home Icon:                In progress
-SMS Icon:                 In design phase
+Home Icon:                Pending release
+SMS Icon:                 In progress
 Burn Icon:                In design phase
 ```
